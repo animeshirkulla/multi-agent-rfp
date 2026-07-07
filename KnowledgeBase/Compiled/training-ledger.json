@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "last_updated": "2026-07-07",
+  "entries": [
+    {
+      "key": "A1-Sedgwick",
+      "solution_file": "KnowledgeBase/Solutions/A1-Sedgwick.pdf",
+      "solution_fingerprint": "sha256:244c0953413967d222b07ccc26466134cc942b03f93f1be6a16bc681eeb86786",
+      "ingested_on": "2026-07-07",
+      "outputs": [
+        "KnowledgeBase/Compiled/extracted/A1-Sedgwick.md"
+      ]
+    },
+    {
+      "key": "A10-Texas",
+      "solution_file": "KnowledgeBase/Solutions/A10-Texas.xlsx",
+      "solution_fingerprint": "sha256:ac455670099886afd095bbcb4e691561ae865856b5635fdae4e053e1a35eeafa",
+      "ingested_on": "2026-07-07",
+      "outputs": [
+        "KnowledgeBase/Compiled/extracted/A10-Texas.md"
+      ]
+    },
+    {
+      "key": "A11",
+      "solution_file": "KnowledgeBase/Solutions/A11.docx",
+      "solution_fingerprint": "sha256:3f6d18e827757192f6ffbc81907a51da8aa74268ef9763fbf916412f42df4902",
+      "ingested_on": "2026-07-07",
+      "outputs": [
+        "KnowledgeBase/Compiled/extracted/A11.md"
+      ]
+    },
+    {
+      "key": "A2-Calgary",
+      "solution_file": "KnowledgeBase/Solutions/A2-Calgary.pdf",
+      "solution_fingerprint": "sha256:2dc1e518afa4d4ba2e399d64cb7ac45cca0bc3b15b4d496410ad92e002ad2615",
+      "ingested_on": "2026-07-07",
+      "outputs": [
+        "KnowledgeBase/Compiled/extracted/A2-Calgary.md"
+      ]
+    },
+    {
+      "key": "A3-Kitsap",
+      "solution_file": "KnowledgeBase/Solutions/A3-Kitsap.pdf",
+      "solution_fingerprint": "sha256:9f37d1f49f5fc2b719eb2d3df43ef49d146280534a85f081fb771ce7912a0414",
+      "ingested_on": "2026-07-07",
+      "outputs": [
+        "KnowledgeBase/Compiled/extracted/A3-Kitsap.md"
+      ]
+    },
+    {
+      "key": "A4-Arlington",
+      "solution_file": "KnowledgeBase/Solutions/A4-Arlington.xlsx",
+      "solution_fingerprint": "sha256:26e2d2624d27b8c31a6452a20684412a8daa41d36f445f99702b78235c027a7b",
+      "ingested_on": "2026-07-07",
+      "outputs": [
+        "KnowledgeBase/Compiled/extracted/A4-Arlington.md"
+      ]
+    },
+    {
+      "key": "A5-Austin",
+      "solution_file": "KnowledgeBase/Solutions/A5-Austin.xlsx",
+      "solution_fingerprint": "sha256:eb6c5e60f25c0986707224b12d2f6ee36f04490193d516a1e64771941a1cabde",
+      "ingested_on": "2026-07-07",
+      "outputs": [
+        "KnowledgeBase/Compiled/extracted/A5-Austin.md"
+      ]
+    },
+    {
+      "key": "A7-Montgomery",
+      "solution_file": "KnowledgeBase/Solutions/A7-Montgomery.xlsx",
+      "solution_fingerprint": "sha256:e22132b94f4cb908b699b2081a81af23c870a874d95e05361b85fecedefd2993",
+      "ingested_on": "2026-07-07",
+      "outputs": [
+        "KnowledgeBase/Compiled/extracted/A7-Montgomery.md"
+      ]
+    },
+    {
+      "key": "A8-Johnson",
+      "solution_file": "KnowledgeBase/Solutions/A8-Johnson.docx",
+      "solution_fingerprint": "sha256:66923d58bef21f7be9b4e0de2096e12e2e13fa6863d10e2a645dc9a1f6cc0462",
+      "ingested_on": "2026-07-07",
+      "outputs": [
+        "KnowledgeBase/Compiled/extracted/A8-Johnson.md"
+      ]
+    },
+    {
+      "key": "A9_Pennsylvania",
+      "solution_file": "KnowledgeBase/Solutions/A9_Pennsylvania.xlsx",
+      "solution_fingerprint": "sha256:aad6ed87cd52c05548a1ce5fe47c5564b4c2bce24a11b653d406ab8f04812b07",
+      "ingested_on": "2026-07-07",
+      "outputs": [
+        "KnowledgeBase/Compiled/extracted/A9_Pennsylvania.md"
+      ]
+    }
+  ]
+}

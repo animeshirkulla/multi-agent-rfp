@@ -1,0 +1,13 @@
+# Python virtual environment — machine-specific, auto-rebuilt by the router
+# (Step 0) or `bash scripts/setup.sh`. Never commit this.
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Concurrency lock files written during training
+*.lock
+
+# macOS cruft
+.DS_Store
